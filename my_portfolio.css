@@ -1,0 +1,183 @@
+body{
+    background-color: rgb(2, 19, 52)
+}
+.name{
+    color: white;
+    font-size: 25px;
+    font-weight: 1000;
+
+}
+ul li{
+    
+    display: inline;
+    margin: 5px;
+    padding: 0;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    /* flex-grow: 1; */
+    justify-content: flex-end;
+    
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    margin-top: 5px;
+}
+.special{
+    margin-left: 600px;
+}
+.navstyle {
+    margin-top: 20px;
+    background-color: rgb(2, 19, 52); /* Green */
+    border: none;
+    color: white;
+    /* padding: 10px 10px;  */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /* font-size: 16px; */
+  }
+.navstyle :hover{
+    /* display: block; */
+    background-color: aqua;
+    border-radius: 5px; 
+    padding: 10px 10px; 
+}
+.dot{
+    color: rgb(53, 180, 222);
+    font-size: 30px;
+}
+
+.intro{
+    margin-top: 150px;
+    background-color: rgb(2, 19, 52);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.introcontent{
+    color: white;
+}
+.image{
+    border-color: rgb(2, 19, 52);
+    border-radius: 5%;
+}
+.frontend {
+    color: rgb(53, 180, 222);
+    
+  }
+  
+
+.contactme{
+    font-size: 20px;
+    color:white;
+    margin-top: 60px;
+    background-color: rgb(11, 170, 17);
+    border-color: none;
+    border-radius: 10px;
+    padding: 10px 10px; 
+}
+.hireme{
+    font-size: 20px;
+    color:white;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: rgb(11, 170, 17);
+    border-color: none;
+    border-radius: 10px;
+    padding: 10px 10px; 
+}
+.buhi :hover{
+    background-color: green;
+}
+.whoami{
+    color:rgb(159, 43, 226);
+    font-size: 30px;
+    font-weight: 700;
+}
+.about{
+    margin-top: 60px;
+    color: white;
+    font-size: 20px;
+}
+.aboutme{
+    margin-top: 40px;
+    margin-left: 14px;
+    margin-right: 14px;
+    max-width: 100%;
+    letter-spacing: 0.01cm;
+    /* line-height-step: 1cm; */
+    line-height: 1cm;
+}
+.skills{
+    margin-top: 60px;
+    color:white;
+    font-size: 20px;
+}
+.pl{
+    /* margin: 10px; */
+    margin-left: 20px;
+    color:rgb(2, 163, 142)
+}
+.myskills{
+    color:rgb(159, 43, 226);
+    font-size: 30px;
+    font-weight: 700;
+}
+.someskills{
+    margin-top: 40px;
+    margin-left: 14px;
+    margin-right: 14px;
+    max-width: 100%;
+    letter-spacing: 0.01cm;
+    /* line-height-step: 1cm; */
+    line-height: 1cm;
+}
+.list{
+    margin-left: 30px;
+}
+.contactmeh{
+    color:rgb(159, 43, 226);
+    font-size: 30px;
+    font-weight: 700;
+}
+.personal{
+    margin-top: 30px;
+    margin-left: 14px;
+    margin-right: 14px;
+    max-width: 100%;
+    letter-spacing: 0.01cm;
+    /* line-height-step: 1cm; */
+    line-height: 1cm;
+}
+.mailph{
+    margin-left: 20px;
+    color:rgb(2, 163, 142)
+}
+.number{
+    color: rgb(13, 96, 222);
+}
+.connectme{
+    color:rgb(159, 43, 226);
+    font-size: 30px;
+    font-weight: 700;
+}
+.conm{
+    margin-top: 30px;
+    margin-left: 34px;
+    margin-right: 14px;
+    max-width: 100%;
+    letter-spacing: 0.01cm;
+    /* line-height-step: 1cm; */
+    line-height: 1cm;
+}
+.space{
+    margin-left: 10px;
+}
+.space1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
